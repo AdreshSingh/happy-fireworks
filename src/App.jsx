@@ -29,7 +29,7 @@ function App() {
     acceleration: 1.05,
     friction: 0.97,
     gravity: 0,
-    particles: 200,
+    particles: 100,
     traceLength: 3,
     traceSpeed: 10,
     explosion: 10,
