@@ -121,7 +121,7 @@ function App() {
           )
         }
         <div className="footer">
-          <button onClick={e => (fireworkClick())}>Fireworks({fireworkCount})</button>
+          <button onClick={e => (fireworkClick())} title='add custom fireworks'>🎇({fireworkCount})</button>
         </div>
       </div>
     </>
